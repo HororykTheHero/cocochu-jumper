@@ -1,5 +1,5 @@
 {
-    "name": "Cocochu Jumper",
+    "name": "Cocochu Jumper Deluxe",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -11,7 +11,9 @@
         "README.md",
         "assets.json",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
